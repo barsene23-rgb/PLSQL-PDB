@@ -43,9 +43,14 @@ this final task was all about installing and configuring oracle enterprise manag
 During this assignment many issues were meant mostly involving OEM but with the help of some youtube videos i was able to solve most of them and bellow im going to add on some references of the youtube videos i used to help me achieve the results. when it comes to task 1 and task 2 the notes the proffessor provided were much clear and i will be adding them in the reference too.
 
 *references*
-https://www.youtube.com/watch?v=kx3abqlScIc
-https://www.youtube.com/watch?v=ZW5E1kZ6izw&t=71s
-https://www.youtube.com/watch?v=B1vaecsOW78
-file:///C:/Users/mukan/Downloads/Lecture%20-%2003-2%20Oracle%20Database%20Environment%20(CDBs%20&%20PDBs)%20&%20OEM%20(1).pdf
+- https://www.youtube.com/watch?v=kx3abqlScIc
+
+- https://www.youtube.com/watch?v=ZW5E1kZ6izw&t=71s
+
+- https://www.youtube.com/watch?v=B1vaecsOW78
+
+- file:///C:/Users/mukan/Downloads/Lecture%20-%2003-2%20Oracle%20Database%20Environment%20(CDBs%20&%20PDBs)%20&%20OEM%20(1).pdf
+
+
 
 *This assignment was done by me Byusa Arsene and no AI tools were uses nor did copy the assignment from another student*
