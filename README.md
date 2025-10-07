@@ -31,9 +31,9 @@ This task was all about creating and deleting a pluggable database successfully 
 
 ### **Oracle Enterprise Management**
 this final task was all about installing and configuring oracle enterprise management.
+**image**
 
-
-
+<img width="958" height="440" alt="express21" src="https://github.com/user-attachments/assets/95718bfe-c43e-4f39-8aa4-683225290a16" />
 
 
 
